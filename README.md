@@ -1,7 +1,7 @@
-# create-react-app
+# docker_fastapi
 
-This package includes the global command for [Create React App](https://github.com/facebook/create-react-app).<br>
-Please refer to its documentation:
+Demo Dockerize FastAPI app
 
-- [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
-- [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
+```bash
+docker compose up --build
+```
